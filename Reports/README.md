@@ -9,4 +9,5 @@ project Viva presentation.
 - The poster presented at the Division of Surgery and Interventional Science's Annual Research Symposium. Prior to the symposium a [preliminary abstract](Abstract%20for%20DSIS%20Symposium.pdf) was submitted to the division. This was an optional, unmarked symposium.  
 ### [Department Symposium Presentation](Symposium%20Presentation_%20Meredith%20Nye.pdf)
 - This PowerPoint was made for the department's mandatory research symposium. Student's were given 5 minutes to cover the scope of their work so far and plans for completion, followed by 10 minutes of questions. This presentation was unmarked but beneficial for Viva prep. 
-
+### [Viva Presentation](Final_Viva_Presentation.pdf)
+- This PowerPoint is the presentation used for the online thesis defense given as partial fulfillment of the requirements for the MSc degree and dissertation course. The viva consisted of the 3 minute presentation and 17 minutes of questions.
