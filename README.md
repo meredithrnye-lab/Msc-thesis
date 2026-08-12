@@ -6,7 +6,7 @@
 ## Abstract
 
 ## Relevant Repository Files
-[PCB Gerber Files](/PCB%20Design)
+[PCB Gerber Files](/PCB%20Design/Gerbers.zip)
 
 
 
