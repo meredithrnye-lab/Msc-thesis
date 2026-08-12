@@ -10,6 +10,7 @@ Authored by [Meredith Nye](https://www.linkedin.com/in/meredith-nye-89455a1b5/),
 ## Relevant Repository Files
 [PCB Gerber Files](/PCB%20Design/Gerbers.zip)
 
+Version 3 Mold Files: [I3_RHM](/Manufacturing/V3_RM.stl), [I3_RHF](/Manufacturing/V3_RF.stl), [I3_LHM](/Manufacturing/V3_LM.stl), [I3_LHF](/Manufacturing/V3_LF.stl)
 
 
 
