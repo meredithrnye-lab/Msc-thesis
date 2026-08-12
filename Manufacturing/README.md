@@ -13,4 +13,4 @@ The full prototype requires 4 different mold pieces: 2 for each half of the fing
 
 [I2_RHM](Iteration2_right_male_mold.stl), [I2_RHF](Iteration2_right_male_femold.stl), [I2_LHM](Iteration2_left_male_mold.stl), [I2_LHF](Iteration2_left_female_mold.stl)
 
-[I3_RHM](), [I3_RHF](), [I3_LHM](), [I3_LHF]()
+[I3_RHM](V3_RM.stl), [I3_RHF](V3_RF.stl), [I3_LHM](V3_LM.stl), [I3_LHF](V3_LF.stl)
