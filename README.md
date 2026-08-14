@@ -13,8 +13,7 @@ Hand impairment
 following stroke, arthritis, and age-related conditions requires high-repetition rehabilitation
 that soft robotic exoskeletons are well suited
 to deliver. Jamming-based variable-stiffness
-mechanisms are promising but underdeveloped, typically offering only single-family, bi-
-nary stiffness control. This project aimed to
+mechanisms are promising but underdeveloped, typically offering only single-family, binary stiffness control. This project aimed to
 evaluate the design and manufacturing feasibility of a hybrid granular–laminar jamming
 soft robotic finger exoskeleton, hypothesising
 that hybrid jamming could be integrated into
