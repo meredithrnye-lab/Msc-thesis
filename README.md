@@ -1,7 +1,9 @@
 # Design and Manufacturing Feasibility Assessment of a Hybrid Jamming Soft Robotic Finger Exoskeleton for Hand Rehabilitation
 **This repository contains dissertation work completed in partial fulfillment of the requirements for the degree MSc Rehabilitation Engineering and Assistive Technologies of University College London**
 
-Authored by [Meredith Nye](https://www.linkedin.com/in/meredith-nye-89455a1b5/), with advisors [Rui Loureiro](https://www.linkedin.com/in/rui-cv-loureiro/) and [Peter Kyberd](https://www.linkedin.com/in/peter-kyberd-b78b1757/)
+
+[Dissertation Report](/Reports/Design%20and%20Manufacturing%20Feasibility%20Assessment%20of%20a%20Hybrid%20Jamming%20Soft%20Robotic%20Finger%20Exoskeleton%20for%20Hand%20Rehabilitation.pdf)
+authored by [Meredith Nye](https://www.linkedin.com/in/meredith-nye-89455a1b5/), with advisors [Rui Loureiro](https://www.linkedin.com/in/rui-cv-loureiro/) and [Peter Kyberd](https://www.linkedin.com/in/peter-kyberd-b78b1757/)
 
 ![Full theoretical system design](/Figures/Vacuum%20Pump.png)
 
